@@ -1,3 +1,10 @@
+👋 Olá, eu sou José Silva
+
+🎯 Desenvolvedor focado em Backend, Arquitetura de APIs e Performance
+🚀 Criador do APIHub — Plataforma gratuita para criação e hospedagem de APIs
+🧠 Interessado em IA aplicada a sistemas reais
+📍 Brasil
+
 ## 🚀 Tecnologias que uso
 
 ### 💻 Backend
