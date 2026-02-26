@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor focado em Backend, Arquitetura de APIs e Performance
 
-🚀 Criador do APIHub — Plataforma gratuita para criação e hospedagem de APIs
+🚀 Criador do APIHub: Plataforma gratuita para criação e divulgação de APIs
 
 🧠 Interessado em IA aplicada a sistemas reais
 
